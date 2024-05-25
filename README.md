@@ -1,1 +1,1 @@
-# pixelisation-photos
+Ce code python permet d'augmenter la netteté de photos ayant une faible résolution. Il s'agit de dépixeliser ces photos. Ce TP fait suite au cours d'analyse numérique et plus precisement celui concernant les splines cubiques.
